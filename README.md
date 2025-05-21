@@ -53,7 +53,7 @@
   </a>
   
   <a href="https://instagram.com/ericliao8025" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@your_ig_username-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-@ericliao8025-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
