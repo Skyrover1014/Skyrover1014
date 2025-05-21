@@ -44,6 +44,18 @@
 | [Threads-Like Network](https://github.com/你的帳號/Threads-like-Network) | A full-stack platform for threaded posts, comments, profiles & notifications | Django, JavaScript, Tailwind |
 | [CS50 Projects](https://github.com/Skyrover1014/CS50-s-web-2020.git) | A collection of web applications built with Django, including an auction platform (Commerce), a dynamic email client, and a Twitter-like social network (Network) | Django, JavaScript, Tailwind |
 
+---
+## 📬 How to reach me
+
+<p>
+  <a href="mailto:weizhil312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  
+  <a href="https://instagram.com/ericliao8025" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@your_ig_username-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
 <!--
 **Skyrover1014/Skyrover1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
