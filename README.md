@@ -1,5 +1,7 @@
 ## Hi! I am Eric!👋
 
+
+
 ---
 ## 🛠️ Tech Stack & Learning Focus
 
@@ -7,8 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django REST Framework-informational?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Frontend:**  
@@ -28,13 +28,6 @@
   <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/RESTful APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-**Studying:**  
-<p>
-  <img src="https://img.shields.io/badge/Data Structures & Algorithms-informational?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System Design-informational?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Caching-informational?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
