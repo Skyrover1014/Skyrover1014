@@ -1,5 +1,5 @@
 ## Hi! I am Eric!👋
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Skyrover1014.Skyrover1014)
 1.	🎯 Currently transitioning into a backend/full-stack developer, focused on building practical skills and a project-driven portfolio.
 2.	🧠 Deeply interested in system design, modular architecture, and clean code — aiming to take on the challenge of building efficient, scalable microservices and distributed systems.
 3.	🌱 Passionate about self-directed learning and cross-disciplinary exploration, with a strong drive to grow from zero to one.
