@@ -50,7 +50,8 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Threads-Like Network](https://github.com/你的帳號/Threads-like-Network) | A full-stack platform for threaded posts, comments, profiles & notifications | Django, JavaScript, Tailwind |
-| [CS50 Projects](https://github.com/Skyrover1014/CS50-s-web-2020.git) | A collection of web applications built with Django, including an auction platform (Commerce), a dynamic email client, and a Twitter-like social network (Network) | Django, JavaScript, Tailwind |
+| [CS50 Mail](https://github.com/Skyrover1014/CS50_Mail) | A single-page email client with dynamic inbox, sending, archiving, and real-time interactivity using JavaScript | Django, JavaScript, Tailwind |
+| [CS50 Commerce](https://github.com/Skyrover1014/CS50_Commerce) | An auction-based social platform with bidding, comments, watchlists, and category filtering | Django, Tailwind, DaisyUI |
 
 ---
 ## 📬 How to reach me
