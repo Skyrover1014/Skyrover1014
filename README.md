@@ -1,18 +1,20 @@
-## Hi! I am Eric!👋
+## Hi! I am Eric! 👋  
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Skyrover1014.Skyrover1014)
----
-<p>
-  1.	🎯 Currently transitioning into a backend/full-stack developer, focused on building practical skills and a project-driven portfolio.
-  2.	🧠 Deeply interested in system design, modular architecture, and clean code — aiming to take on the challenge of building efficient, scalable microservices and distributed systems.
-  3.	🌱 Passionate about self-directed learning and cross-disciplinary exploration, with a strong drive to grow from zero to one.
-  4.	💻 I’m currently learning on Django REST Framework, React, TypeScript, PostgreSQL, Clean Code practices, CQRS, and Redis.
-</p>
 
 ---
 
+### 🌟 About Me
+
+- 🎯 Currently transitioning into a backend/full-stack developer, focused on building practical skills and a project-driven portfolio.  
+- 🧠 Deeply interested in system design, modular architecture, and clean code — aiming to take on the challenge of building efficient, scalable microservices and distributed systems.  
+- 🌱 Passionate about self-directed learning and cross-disciplinary exploration, with a strong drive to grow from zero to one.  
+- 💻 Currently learning Django REST Framework, React, TypeScript, PostgreSQL, Clean Code practices, CQRS, and Redis.
+
+---
+
+### 📊 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyrover1014&theme=github-compact)
-
 
 ---
 ## 🛠️ Tech Stack & Learning Focus
