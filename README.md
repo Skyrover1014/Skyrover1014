@@ -1,6 +1,6 @@
 ## Hi! I am Eric!👋
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Skyrover1014.Skyrover1014)
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Skyrover1014&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyrover1014&theme=github-compact)
 
 1.	🎯 Currently transitioning into a backend/full-stack developer, focused on building practical skills and a project-driven portfolio.
 2.	🧠 Deeply interested in system design, modular architecture, and clean code — aiming to take on the challenge of building efficient, scalable microservices and distributed systems.
